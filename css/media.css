@@ -1139,8 +1139,11 @@
         color: #fff;
         font-size: 28px;
     }
-    section h1 {
+    .section h1 {
         font-size: 29px;
         width: 330px;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
     }
 }
